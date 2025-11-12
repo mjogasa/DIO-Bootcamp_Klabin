@@ -6,3 +6,7 @@ Desafio_E-commerce.png e .sql são arquivos com modificações para se adequar �
 Acredito ter conseguido atingir o objetivo do desafio.
 grato,
 Marcos
+
+Acrescentado arquivos Desafio_Loja_Bicicleta.png e .sql, conforme desafio de projeto diferente do visto em aula.
+Grato,
+Marcos
